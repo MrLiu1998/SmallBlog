@@ -8,8 +8,11 @@
 
 管理员 admin 密码 111111
 
-项目中引用的semantic-ui插件cdn目前失效了，服务器部署的项目样式就都没了
 
-所有后端功能还是能正常使用
-更换新的semantic-ui插件的cdn样式的semantic.min.css文件就好了
+特别注意：
+  项目中引用的semantic-ui插件cdn目前失效了，服务器部署的项目样式就都没了
+
+  所有后端功能还是能正常使用
+  
+  更换新的semantic-ui插件的cdn样式的semantic.min.css文件就好了
 
